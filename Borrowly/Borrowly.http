@@ -1,6 +1,1 @@
 @Borrowly_HostAddress = http://localhost:5233
-
-GET {{Borrowly_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
